@@ -37,19 +37,19 @@ global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '085878258447' //dana
-global.povo = '085878258447' //ovo
-global.pgopay = '085878258447' //gopay
-global.plinkaja = '085878258447' //link aja
+global.pdana = '081389240436' //dana
+global.povo = '081389240436' //ovo
+global.pgopay = '081389240436' //gopay
+global.plinkaja = '081389240436' //link aja
 global.ppulsa = '_' //telkomsel
-global.ppulsa2 = '085878258447' // kalau ada kartu lain isi aja
+global.ppulsa2 = '081389240436' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285878258447'
-global.nomorown = '6285878258447'
-global.namebot = 'VinnXD`'
-global.nameown = '~Vincenttt ¿'
+global.nomorbot = '6285600648045'
+global.nomorown = '6281389240436'
+global.namebot = 'AurellKtce-MD'
+global.nameown = 'AurellKtce'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,7 +58,7 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285878258447', '~Vincenttt ¿', true],
+  ['6281389240436', 'AurellKtce', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
@@ -109,13 +109,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 VinnXD-BOT 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘VinnXD-BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ VinnXD-BOT '
+global.wm = '                「 AurellKtce-MD 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘AurellKtce-MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ AurellKtce-MD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ~Vincenttt ¿`
-global.author = '                「 VinnXD-BOT  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By AurellKtce`
+global.author = '                「 AurellKtce-MD  あ」'
 
 
 /*============== LOGO ==============*/
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'VinnXD-BOT'
-global.stickauth = `By ©Vincenttt ¿`
+global.stickpack = 'AurellKtce-MD'
+global.stickauth = `By © AurellKtce`
 
 global.multiplier = 38 // The higher, The harder levelup
 

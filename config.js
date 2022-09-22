@@ -121,7 +121,7 @@ global.author = '                「 VinnXD-BOT  あ」'
 /*============== LOGO ==============*/
 global.thumb = 'https://i.ibb.co/XZrK6yQ/IMG-20220922-WA0003.jpg' //Main Thumbnail
 global.imagebot = 'https://i.ibb.co/XZrK6yQ/IMG-20220922-WA0003.jpg'
-global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
+global.giflogo = 'https://telegra.ph/file/IMG-20220922-WA0003.mp4'
 global.thumbs = ['https://i.ibb.co/XZrK6yQ/IMG-20220922-WA0003.jpg']
 global.fla = 'https://i.ibb.co/XZrK6yQ/IMG-20220922-WA0003.jpg'
 global.flaaa2 = [

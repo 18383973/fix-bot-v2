@@ -37,12 +37,12 @@ global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '081389240436' //dana
-global.povo = '081389240436' //ovo
-global.pgopay = '081389240436' //gopay
-global.plinkaja = '081389240436' //link aja
+global.pdana = '085878258447' //dana
+global.povo = '085878258447' //ovo
+global.pgopay = '085878258447' //gopay
+global.plinkaja = '_' //link aja
 global.ppulsa = '_' //telkomsel
-global.ppulsa2 = '081389240436' // kalau ada kartu lain isi aja
+global.ppulsa2 = '085600648045' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
@@ -119,12 +119,11 @@ global.author = '                「 VinnXD-MD  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/file/5fd2032029baa78055c29.jpg' //Main Thumbnail
-global.imagebot = 'https:/i.ibb.co/file/5fd2032029baa78055c29.jpg'
+global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
+global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/file/5fd2032029baa78055c29.jpg']
-global.fla = 'https://i.ibb.co/file/5fd2032029baa78055c29.jpg
-'
+global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
+global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',

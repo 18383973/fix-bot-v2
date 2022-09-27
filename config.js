@@ -119,11 +119,15 @@ global.author = '                「 VinnXD-MD  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/files/images.jpeg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/files/images.jpeg'
+global.thumb = 'https://telegra.ph/files/e70de4b8-2e58-4b65-aaf6-f2f5c2e86d0c.jpeg
+' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/files/e70de4b8-2e58-4b65-aaf6-f2f5c2e86d0c.jpeg
+'
 global.giflogo = 'https://telegra.ph/file/IMG-20220922-WA0003.mp4'
-global.thumbs = ['https://i.ibb.co/files/images.jpeg']
-global.fla = 'https://i.ibb.co/files/images.jpeg'
+global.thumbs = ['https://telegra.ph/files/e70de4b8-2e58-4b65-aaf6-f2f5c2e86d0c.jpeg
+']
+global.fla = 'https://telegra.ph/files/e70de4b8-2e58-4b65-aaf6-f2f5c2e86d0c.jpeg
+'
 global.flaaa2 = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&text=',

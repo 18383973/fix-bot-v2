@@ -119,13 +119,10 @@ global.author = '                「 VinnXD-MD  あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/e70de4b8-2e58-4b65-aaf6-f2f5c2e86d0c.jpeg
-' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/e70de4b8-2e58-4b65-aaf6-f2f5c2e86d0c.jpeg
-'
+global.thumb = 'https://telegra.ph/file/e70de4b82e584b65aaf6f2f5c2e86d0c.jpeg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/e70de4b82e58-b65aaf6f2f5c2e86d0c.jpeg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/e70de4b8-2e58-4b65-aaf6-f2f5c2e86d0c.jpeg
-']
+global.thumbs = ['https://telegra.ph/file/e70de4b82e584b65aaf6f2f5c2e86d0c.jpeg']
 global.fla = 'https://telegra.ph/file/e70de4b8-2e58-4b65-aaf6-f2f5c2e86d0c.jpeg
 '
 global.flaaa2 = [
